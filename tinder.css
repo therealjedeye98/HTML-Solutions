@@ -1,0 +1,101 @@
+.bg-img{
+    width:1000px;
+    height:605px;
+    background-image: url(images/Tinder-logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
+
+#space{
+    background-image: url(images/640x480-white-solid-color-background.jpg);
+    height: 550px;
+    width:445px;
+    background-position: 50% 50%;
+    margin-left: 240px; 
+
+}
+
+#icons h1{
+    text-align: center;
+}
+
+#close{
+    height: 30px;
+    width:30px;
+    margin-left: 402px;
+    margin-top: 10px;
+}
+
+#tinder-icon{
+     height: 50px;
+    width:50px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+#the-rest h1{
+    font-family: sans-serif;
+    margin-left: 100px;
+}
+
+.links{
+    text-decoration: underline;
+    color:darkgrey;
+}
+
+#the-rest a{
+    text-align: center;
+    margin-left: 100px;
+}
+
+#the-rest button{
+    color:white;
+    background-color: #3f53c1;
+    font-size: 100%;
+    border-radius: 75px;
+    margin-left: 90px;
+    width: 250px;
+    height: 50px;
+}
+
+#the-rest input{
+    width: 250px;
+    border-radius: 100px;
+    margin-left: 90px;
+    height: 50px;
+    text-align: center;
+}
+
+#link-text{
+    text-align: auto;
+    text-decoration: underline;
+    color: dimgrey;
+    margin-left: 150px;
+    
+}
+#the-rest strong{
+    text-align: center;
+    font-size: 150%;
+    margin-left: 140px;
+    
+}
+
+#playstore{
+    height:75px;
+    width:75px;
+    margin-left: 100px;
+    border: 5px;
+    margin-bottom: 36px;
+}
+
+#apple-logo{
+    height:50px;
+    width:68px;
+    border: 5px;
+    margin-top: 25px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+} 
+    
